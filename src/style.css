@@ -1,1 +1,11 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  overflow: hidden;
+  background: #343a4d; /* matches the sky's horizon color while loading */
+}
 
+canvas {
+  display: block;
+}
